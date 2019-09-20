@@ -16,6 +16,7 @@
 
 
 Stage #1:(Sep 20th - Oct 4th)
+
 Assignment: Product Definition Document, System Setup and Test Programs.
 
 
