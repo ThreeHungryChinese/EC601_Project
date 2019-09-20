@@ -5,10 +5,12 @@
 
 # Outcome:
 
-
 ·Product Definition Document(Product Mission, Customer(s), MVP user stories)
+
 ·All system setup
+
 ·Review and analysis industrial products
+
 ·Test programs
 
 
