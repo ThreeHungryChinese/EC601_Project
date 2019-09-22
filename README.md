@@ -1,5 +1,7 @@
 # EC601_Project
+
 Project Name:Automated Admission System
+
 Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
 # Sprint 1
