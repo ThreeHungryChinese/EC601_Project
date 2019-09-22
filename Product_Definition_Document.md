@@ -43,3 +43,10 @@ have developed great evaluating algorithms can test their algorithm reliability 
 our API. For profit purpose, they can consider selling it to universities if the algorithm
 performs better than the existing algorithms.
 
+Minimum Valuable Product before Sprint 1:
+
+design a system with:
+
+· an interface that takes in documents and outputs the scores/chance of admission
+· an admission assistant system with >=1 algorithm(s) available to generate evaluation scores/chance of admission
+· a data storage structure that stores all data
