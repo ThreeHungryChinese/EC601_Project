@@ -1,9 +1,11 @@
 # EC601_Project
+Project Name:Automated Admission System
+Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
 # Sprint 1
 
 
-### Outcome:
+## Outcome:
 
 ·Product Definition Document(Product Mission, Customer(s), MVP user stories)
 
@@ -14,7 +16,7 @@
 ·Test programs
 
 
-# Schedule:
+## Schedule:
 
 
 Stage #1:(Sep 20th - Oct 4th)
