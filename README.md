@@ -3,7 +3,7 @@
 # Sprint 1
 
 
-# Outcome:
+## Outcome:
 
 ·Product Definition Document(Product Mission, Customer(s), MVP user stories)
 
