@@ -2,7 +2,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import io, shutil, urllib
 from urllib.parse import urlparse
 from urllib.parse import urlparse,parse_qs
-import encapsulation
+import test2
 
 
 
@@ -13,9 +13,7 @@ class MyHttpHandler(BaseHTTPRequestHandler):
         self.end_headers()
         imsi = parse_qs(urlparse(self.path).query).get('gre', None)
         pars = imsi[0]
-        print(pars,len(pars),type(pars))
         pars = pars[1:len(pars)-1]
-        print(pars,len(pars),type(pars))
         intpars = []
         cur = 0
         for i in range(len(pars)):
@@ -25,13 +23,12 @@ class MyHttpHandler(BaseHTTPRequestHandler):
                 intpars.append(cur)
                 cur = 0
         intpars.append(cur)
-        print(intpars[0],intpars[2],len(intpars))
-        args = ""
-        for i in range(len(intpars)):
-            args = args + str(intpars[i]) + " "
-
-        score1, score2 = encapsulation.main(args)
-        print("scores are:" + str(score1)+ " and  " +str(score2))
+        #args = ""
+        #for i in range(len(intpars)):
+        #    args = args + str(intpars[i]) + " "
+        #print(args)
+        score1, score2, score3, score4,score5,score6= test2.main(intpars)
+        print("scores are:" + str(score1)+" "+str(score2) +" "+str(score3)+" " + str(score4)+" "+str(score5)+" "+str(score6))
 
         #url = 'http://example.com/?gre=330&toefl=123'
         #par = parse_qs(urlparse(self.path).query)
