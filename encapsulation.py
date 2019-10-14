@@ -1,3 +1,5 @@
+# THIS FILE IS CURRENTLY USELESS#
+
 import core
 import pandas as pd
 import sys
