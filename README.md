@@ -26,7 +26,7 @@ Stage #1:(Sep 20th - Oct 4th)
 Assignment: Product Definition Document, System Setup and Test Programs.
 
 
-Stage #2:(Oct 8th - Oct 21st)
+Stage #2:(Oct 8th - Nov 4th)
 
 Assignment: System architecture (HTTP request to return score, data storage and export function), more algorithms,
             explore feasibility of NLP for LOR, SOP (VMOCK), extension on Telegram (*undecided)
