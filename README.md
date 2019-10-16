@@ -31,3 +31,7 @@ Stage #2:(Oct 8th - Nov 4th)
 Assignment: System architecture (HTTP request to return score, data storage and export function), more algorithms,
             explore feasibility of NLP for LOR, SOP (VMOCK), extension on Telegram (*undecided)
             
+NLP part for Qingxuan Pei : sample model due date Oct 27th.
+
+
+            
