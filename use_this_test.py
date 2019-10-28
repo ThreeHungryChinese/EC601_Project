@@ -11,7 +11,7 @@ class MyHttpHandler(BaseHTTPRequestHandler):
         self.send_response(200)
         self.send_header("Content-type", "text/html")
         self.end_headers()
-        imsi = parse_qs(urlparse(self.path).query).get('gre', None)
+        imsi = parse_qs(urlparse(self.path).query).get('data', None)
         pars = imsi[0]
         pars = pars[1:len(pars)-1]
         intpars = []
@@ -28,7 +28,17 @@ class MyHttpHandler(BaseHTTPRequestHandler):
         #    args = args + str(intpars[i]) + " "
         #print(args)
         score1, score2, score3, score4,score5,score6= test2.main(intpars)
-        print("scores are:" + str(score1)+" "+str(score2) +" "+str(score3)+" " + str(score4)+" "+str(score5)+" "+str(score6))
+        print("scores are:")
+
+        print(str(score1))
+        print(str(score2))
+        print(str(score3))
+        print(str(score4))
+        print(str(score5))
+        print(str(score6))
+
+
+
 
         #url = 'http://example.com/?gre=330&toefl=123'
         #par = parse_qs(urlparse(self.path).query)
