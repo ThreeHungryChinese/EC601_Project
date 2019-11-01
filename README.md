@@ -4,6 +4,12 @@ Project Name:Automated Admission System
 
 Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
+Project Repos：
+
+https://github.com/ThreeHungryChinese/EC601_Project Kefan Zhang
+https://github.com/ThreeHungryChinese/WebApps Haoyang Wang
+https://github.com/ThreeHungryChinese/QINGXUAN-S-PART Qingxuan Pei
+
 # Sprint 1
 
 
@@ -87,7 +93,9 @@ Minimum Valuable Product before Sprint 1:
 design a system with:
 
 · an interface that takes in documents and outputs the scores/chance of admission
+
 · an admission assistant system with >=1 algorithm(s) available to generate evaluation scores/chance of admission
+
 · a data storage structure that stores all data
 
 
