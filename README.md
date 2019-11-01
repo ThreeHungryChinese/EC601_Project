@@ -25,6 +25,17 @@ https://github.com/ThreeHungryChinese/QINGXUAN-S-PART Qingxuan Pei
 
 ·Test programs
 
+# Sprint 2
+
+## Outcome:
+
+·Extended to 6 default algorithms.
+
+·Developed web platform, including interface, register and login function, feasible to apply third-party algorithms or choose different default algorithms.
+
+·API for Thrid-Party Developer
+
+·HTTP request to communicate between different components of system
 
 ## Schedule:
 
