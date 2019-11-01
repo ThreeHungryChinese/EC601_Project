@@ -7,7 +7,9 @@ Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 Project Repos：
 
 https://github.com/ThreeHungryChinese/EC601_Project Kefan Zhang
+
 https://github.com/ThreeHungryChinese/WebApps Haoyang Wang
+
 https://github.com/ThreeHungryChinese/QINGXUAN-S-PART Qingxuan Pei
 
 # Sprint 1
