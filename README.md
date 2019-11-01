@@ -35,7 +35,7 @@ https://github.com/ThreeHungryChinese/QINGXUAN-S-PART Qingxuan Pei
 
 ·API for Thrid-Party Developer
 
-·HTTP request to communicate between different components of system
+·HTTPs request to communicate between different components of system
 
 ## Schedule:
 
