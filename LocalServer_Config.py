@@ -35,12 +35,12 @@ class MyHttpHandler(BaseHTTPRequestHandler):
         ##print(str(score4))
         ##print(str(score5))
         ##print(str(score6))
-        score_Str = "</br>Linear Regression score -> " + str(score1)+"</br>" \
-                    "Decision Tree Regression score -> " + str(score2)+"</br>"\
-                    "Ridge Regression score -> " +str(score3)+"</br>"\
-                    "Lasso Linear Model score -> "+str(score4)+"</br>"\
-                    "Least Angle Lasso Regression score -> "+str(score5)+"</br>"\
-                    "Bayesian Regression score -> "+str(score6)
+        score_Str = "Linear Regression score -> " + str(score1)+"%"+"</br>" \
+                    "Decision Tree Regression score -> " + str(score2)+"%"+"</br>"\
+                    "Ridge Regression score -> " +str(score3)+"%"+"</br>"\
+                    "Lasso Linear Model score -> "+str(score4)+"%"+"</br>"\
+                    "Least Angle Lasso Regression score -> "+str(score5)+"%"+"</br>"\
+                    "Bayesian Regression score -> "+str(score6)+"%"
         ########################
         self.send_response(200)
         self.send_header("Content-type", "text/html")
