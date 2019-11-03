@@ -59,6 +59,6 @@ class MyHttpHandler(BaseHTTPRequestHandler):
 
 
 
-httpd = HTTPServer(('', 443), MyHttpHandler)
-print("Server started on 127.0.0.1,port 443.....")
+httpd = HTTPServer(('', 80), MyHttpHandler)
+print("Server started on local port 80.....")
 httpd.serve_forever()
