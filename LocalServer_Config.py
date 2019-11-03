@@ -27,14 +27,14 @@ class MyHttpHandler(BaseHTTPRequestHandler):
         #    args = args + str(intpars[i]) + " "
         #print(args)
         score1, score2, score3, score4,score5,score6= DefaultAlgorithms.main(intpars)
-        print("scores are:")
-
-        print(str(score1))
-        print(str(score2))
-        print(str(score3))
-        print(str(score4))
-        print(str(score5))
-        print(str(score6))
+        ##print("scores are:")
+##
+        ##print(str(score1))
+        ##print(str(score2))
+        ##print(str(score3))
+        ##print(str(score4))
+        ##print(str(score5))
+        ##print(str(score6))
         score_Str = str(score1)+"\n"+str(score2)+"\n"+str(score3)+"\n"+str(score4)+"\n"+str(score5)+"\n"+str(score6)
         ########################
         self.send_response(200)
@@ -59,15 +59,6 @@ class MyHttpHandler(BaseHTTPRequestHandler):
 
 
 
-    def do_POST(self):
-        s = str(self.rfile.readline(), 'UTF-8')  # 先解码
-        print(s)
-
-        self.send_response(301)  # URL跳转
-
-        self.end_headers()
-
-
 httpd = HTTPServer(('', 443), MyHttpHandler)
-print("Server started on local on port 443.....")
+print("Server started on 127.0.0.1,port 443.....")
 httpd.serve_forever()

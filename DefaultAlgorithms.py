@@ -7,7 +7,7 @@ import sys
 
 class Admission_Predictor:
     def __init__(self):
-        path = '/Users/robertmorrislike/BU_Study/EC601/SilverLobster/'
+        path = '/home/ubuntu/'
         os.chdir(path)
         self.data = pd.read_csv("Admission_Predict.csv")
     def model_train_and_predict(self, data_l):
@@ -25,34 +25,40 @@ class Admission_Predictor:
         model = linear_model.LinearRegression()
         model.fit(X,y)
         ynew = model.predict(Xnew)
+        y1 = round(ynew[0],3)
 
         # Decision Tree Regression
         model2 = DecisionTreeRegressor()
         model2.fit(X,y)
         ynew2 = model2.predict(Xnew)
+        y2 = round(ynew2[0], 3)
 
         # Ridge Regression
         model3 = linear_model.Ridge()
         model3.fit(X,y)
         ynew3 = model3.predict(Xnew)
+        y3 = round(ynew3[0], 3)
 
         # Lasso Linear Model
         model4 = linear_model.Lasso()
         model4.fit(X,y)
         ynew4 = model4.predict(Xnew)
+        y4 = round(ynew4[0], 3)
 
         # Least Angle Lasso Regression
         model5 = linear_model.LassoLars()
         model5.fit(X,y)
         ynew5 = model5.predict(Xnew)
+        y5 = round(ynew5[0], 3)
 
         # Bayesian Regression
         model6 = linear_model.BayesianRidge()
         model6.fit(X,y)
         ynew6 = model6.predict(Xnew)
+        y6 = round(ynew6[0], 3)
         #print(ynew,ynew2,ynew3,ynew4,ynew5,ynew6)
-
-        return ynew[0],ynew2[0],ynew3[0],ynew4[0],ynew5[0],ynew6[0]
+        return y1,y2,y3,y4,y5,y6
+        ##return ynew[0],ynew2[0],ynew3[0],ynew4[0],ynew5[0],ynew6[0]
 
 
 def main(l):
