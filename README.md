@@ -53,7 +53,7 @@ Assignment: System architecture (HTTP request to return score, data storage and 
 
 System Architecture:
 
-![System Architecture](System_Architecture.jpeg)
+![System Architecture](System Architecture.jpeg)
 
 
 # Product Mission
