@@ -1,6 +1,6 @@
 # EC601_Project
 
-##Demo: https://silverlobster.onic.xyz
+## Demo: https://silverlobster.onic.xyz
 Go Check Out ! (If not available: probabily it's being modified or, we simply screw up
 
 Project Name:Automated Admission System
