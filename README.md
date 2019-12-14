@@ -12,7 +12,9 @@ Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
 ## Project Repos：
 
-https://github.com/ThreeHungryChinese/EC601_Project Main repo of this prjcect by all group members and default Algrothim by Kefan Zhang
+https://github.com/ThreeHungryChinese/EC601_Project Main readme of this prjcect by all group members
+
+https://github.com/ThreeHungryChinese/EC601_Project default Algrothim by Kefan Zhang
 
 https://github.com/ThreeHungryChinese/iOSApp iOS Application by Kefan Zhang
 
