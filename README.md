@@ -83,7 +83,7 @@ System Architecture:
 
 New System Architecture:
 
-![System Architecture](/pictures/SystemArchitecture2.png)
+![System Architecture](/pictures/picturesSystemArchitecture2.png)
 
 # Product Mission
 
