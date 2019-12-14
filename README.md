@@ -18,7 +18,7 @@ https://github.com/ThreeHungryChinese/EC601_Project default Algrothim by Kefan Z
 
 https://github.com/ThreeHungryChinese/iOSApp iOS Application by Kefan Zhang
 
-https://github.com/ThreeHungryChinese/WebApps Web Application (Sprint 1 & Sprint 2) by Haoyang Wang 
+https://github.com/ThreeHungryChinese/WebApps [*abandoned*] Web Application (Sprint 1 & Sprint 2) by Haoyang Wang 
 
 https://github.com/ThreeHungryChinese/MaineCoonUi Vue web interface (Sprint 3) by Haoyang Wang 
 
