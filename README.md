@@ -1,7 +1,7 @@
 # EC601_Project
 
-## Demo: https://silverlobster.onic.xyz
-Go Check Out ! (If not available: probabily it's being modified or, we simply screw up）
+## Demo(Web App): https://threehungrychinese.github.io/MaineCoonUi/
+## Checkout screenshots of iOS App:https://github.com/ThreeHungryChinese/iOSApp
 
 Project Name:Automated Admission System
 
