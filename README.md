@@ -1,7 +1,8 @@
 # EC601_Project
 
-## Demo(Web App): https://threehungrychinese.github.io/MaineCoonUi/
-## Checkout screenshots of iOS App:https://github.com/ThreeHungryChinese/iOSApp
+## Demo
+ (Web App): https://threehungrychinese.github.io/MaineCoonUi/
+ (iOS App): (Checkout screenshots of iOS App) https://github.com/ThreeHungryChinese/iOSApp
 
 Project Name:Automated Admission System
 
