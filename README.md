@@ -9,13 +9,17 @@ Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
 Project Repos：
 
-https://github.com/ThreeHungryChinese/EC601_Project Kefan Zhang
+https://github.com/ThreeHungryChinese/EC601_Project Main repo of this prjcect and default Algrothim by Kefan Zhang
 
-https://github.com/ThreeHungryChinese/iOSApp Kefan Zhang
+https://github.com/ThreeHungryChinese/iOSApp iOS Application by Kefan Zhang
 
-https://github.com/ThreeHungryChinese/WebApps Haoyang Wang
+https://github.com/ThreeHungryChinese/WebApps Web Application (Sprint 1 & Sprint 2) by Haoyang Wang 
 
-https://github.com/ThreeHungryChinese/QINGXUAN-S-PART Qingxuan Pei
+https://github.com/ThreeHungryChinese/MaineCoonUi Vue web interface (Sprint 3) by Haoyang Wang 
+
+https://github.com/ThreeHungryChinese/MaineCoonApi Back-end services (Sprint 3) by Haoyang Wang
+
+https://github.com/ThreeHungryChinese/PDFprocess PDF Process Algrothim by Qingxuan Pei
 
 # Sprint 1
 
@@ -58,8 +62,28 @@ Assignment: System architecture (HTTP request to return score, data storage and 
 
 System Architecture:
 
-![System Architecture](/pictures/SystemArchitecture1.png)
+![System Architecture](/pictures/SystemArchitecture2.png)
 
+# Sprint 3
+
+## Outcone:
+
+·Web Application is abandoned. (In sprint 3, it is replaced by high choesion front-end Vue app and .Net Core Restful Api service.)
+
+·Add a new Web client 'MaineCoonUi', with a elegant, Material Design outward, used Vue.
+
+·Add a back-end service 'MaineCoonApi', it is able to provide a Restful api to other front-end application, used .Net Core 3.0.
+
+·Developed iOS application for students.
+
+·Added a sample algorithm allow user to convert Transcript to average score.
+
+·Improved sample algorithm.
+
+
+New System Architecture:
+
+![System Architecture](/pictures/SystemArchitecture1.png)
 
 # Product Mission
 
