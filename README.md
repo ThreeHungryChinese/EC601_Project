@@ -62,7 +62,7 @@ Assignment: System architecture (HTTP request to return score, data storage and 
 
 System Architecture:
 
-![System Architecture](/pictures/SystemArchitecture2.png)
+![System Architecture](/pictures/SystemArchitecture1.png)
 
 # Sprint 3
 
@@ -83,7 +83,7 @@ System Architecture:
 
 New System Architecture:
 
-![System Architecture](/pictures/SystemArchitecture1.png)
+![System Architecture](/pictures/SystemArchitecture2.png)
 
 # Product Mission
 
