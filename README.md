@@ -2,13 +2,15 @@
 
 ## Demo
  (Web App): https://threehungrychinese.github.io/MaineCoonUi/
+ 
  (iOS App): (Checkout screenshots of iOS App) https://github.com/ThreeHungryChinese/iOSApp
-
+ 
+## Project Info:
 Project Name:Automated Admission System
 
 Project Member:Qingxuan Pei, Haoyang Wang, Kefan Zhang
 
-Project Repos：
+## Project Repos：
 
 https://github.com/ThreeHungryChinese/EC601_Project Main repo of this prjcect by all group members and default Algrothim by Kefan Zhang
 
@@ -67,13 +69,15 @@ System Architecture:
 
 # Sprint 3
 
-## Outcone:
+## Outcome:
 
 ·Web Application is abandoned. (In sprint 3, it is replaced by high choesion front-end Vue app and .Net Core Restful Api service.)
 
 ·Add a new Web client 'MaineCoonUi', with a elegant, Material Design outward, used Vue.
 
 ·Add a back-end service 'MaineCoonApi', it is able to provide a Restful api to other front-end application, used .Net Core 3.0.
+
+·Rewrite Apis for developer & update the SQL Server tables 
 
 ·Developed iOS application for students.
 
