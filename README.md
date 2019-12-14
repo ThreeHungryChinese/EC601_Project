@@ -27,7 +27,7 @@ https://github.com/ThreeHungryChinese/PDFprocess PDF Process Algrothim by **Qing
 
 # Project Guide
 
-## Introductions
+## Web Application
  A user Interface based on Vue.js
  
 ![Vue logo](/pictures/logo.png)
