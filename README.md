@@ -1,6 +1,9 @@
 EC601_Project：Automated Admission Platform
 ==================
 
+" It's not a bug, it's a feature." -- Haoyang W.
+
+
 Haoyang Wang, Qingxuan Pei, Kefan Zhang
 
 ## Demo
