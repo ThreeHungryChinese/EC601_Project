@@ -41,7 +41,7 @@ https://github.com/ThreeHungryChinese/PDFprocess PDF Process Algrothim by **Qing
 * High completion level
 ## Demo
 ### Sample User:
-For developters: developer@example.com | Password:123456
+For developers: developer@example.com | Password:123456
 
 For School Administors: schooladmin@example.com | Password:123456
 
